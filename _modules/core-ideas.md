@@ -11,13 +11,15 @@ Jun 30
   : [Notes](#), [Problems](#), [Solutions](#), [Notebooks](#)
 
 Sep 30
-: [Curvature](#)
+: [Intro to Curvature](#)
   : [Notes](#), [Problems](#), [Solutions](#), [Notebooks](#)
-: **Papers**{: .label .label-green } [Fundamentals](#)
+: **Applications**{: .label .label-green } [Fundamentals](#)
+  : [Send in a paper](#)
 
 Oct 1
 : **Workshop**{: .label .label-purple } [Hackathon](#)
-: **Papers**{: .label .label-green } [Curvature](#)
+: **Applications**{: .label .label-green } [Curvature](#)
+  : [Send in a paper](#)
 
 Oct 2
 : [Hackathon](#)
