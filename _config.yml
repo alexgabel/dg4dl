@@ -17,8 +17,8 @@ title: Differential Geometry for Deep Learning
 tagline: Website for the DG for DL tutorials at UvA
 description: Information for the Differential Geometry for Deep Learning tutorials given at the University of Amsterdam
 author: Alex Gabel
-baseurl: '/notes' # the subpath of your site, e.g. /blog
-url: 'https://dg4dl.info' # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: '/dg4dl' # the subpath of your site, e.g. /blog
+url: 'https://alexgabel.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
 # Theme settings
