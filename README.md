@@ -10,7 +10,7 @@ seo:
 
 # DG4DLIntro
 
-These are the notes for the tutorial series on Differential Geometry for Deep Learning. List:
+These are the notes for the tutorial series on Differential Geometry for Deep Learning. This is an inline math equation: $E = mc^2$. List:
 
 - [announcements](announcements.md),
 - a [course calendar](calendar.md),
