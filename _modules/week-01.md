@@ -1,5 +1,5 @@
 ---
-title: Differential Geoemtry for Deep Learning
+title: Differential Geometry for Deep Learning
 ---
 
 Mar 6
