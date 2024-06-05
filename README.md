@@ -1,11 +1,11 @@
 ---
 layout: home
-title: DiffGeoforDL
+title: DG4DL
 nav_exclude: true
 permalink: /:path/
 seo:
-  type: Tutorial
-  name: DGDL
+  type: Course
+  name: DG4DL
 ---
 
 # DG4DLIntro
