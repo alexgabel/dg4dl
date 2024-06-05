@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Differential Geometry for Deep Learning
+title: DG4DL
 tagline: Website for the DG for DL tutorials at UvA
 description: Information for the Differential Geometry for Deep Learning tutorials given at the University of Amsterdam
 author: Alex Gabel
