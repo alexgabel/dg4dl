@@ -24,3 +24,13 @@ Staff information is stored in the `_staffers` directory and rendered according 
 {{ staffer }}
 {% endfor %}
 {% endif %}
+
+{% assign organizers = site.staffers | where: 'role', 'Organizer' %}
+{% assign num_organizers = organizers | size %}
+{% if num_organizers != 0 %}
+## Organizer
+
+{% for staffer in organizers %}
+{{ staffer }}
+{% endfor %}
+{% endif %}
