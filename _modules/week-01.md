@@ -1,23 +1,23 @@
 ---
-title: Introduction to Java
+title: Differential Geoemtry for Deep Learning
 ---
 
-Sep 28
-: [Java & Git](#)
-  : [1.1](#)
+Mar 6
+: [Fundamentals](#)
+  : [Notes](#), [Problems](#), [Solutions](#), [Notebooks](#)
 
-Sep 29
-: **Section**{: .label .label-purple }[Intro to Java](#)
-  : [Solution](#)
+Jun 30
+: [Core](#) **Reading Group**{: .label .label-purple }
+  : [Notes](#), [Problems](#), [Solutions](#), [Notebooks](#)
 
 Sep 30
-: [Variables & Objects](#)
-  : [1.2](#), [2.1](#)
+: [Curvature](#) **Reading Group**{: .label .label-purple }
+  : [Notes](#), [Problems](#), [Solutions](#), [Notebooks](#)
 
 Oct 1
-: **Lab**{: .label .label-purple } [Intro to Java](#)
+: **Workshop**{: .label .label-purple } [Hackathon](#)
 
 Oct 2
-: [Tracing, IntLists, & Recursion](#)
+: [Hackathon](#)
   : [2.1](#)
-: **HW 1 due**{: .label .label-red }
+: **Papers due**{: .label .label-red }
