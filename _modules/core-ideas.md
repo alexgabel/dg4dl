@@ -1,23 +1,24 @@
 ---
-title: Differential Geometry for Deep Learning
+title: Core Ideas of Differential Geometry
 ---
 
 Mar 6
-: [Fundamentals](#)
+: **Lecture**{: .label .label-purple } [Fundamentals: Part I](#)
   : [Notes](#), [Problems](#), [Solutions](#), [Notebooks](#)
 
 Jun 30
-: [Core](#) **Reading Group**{: .label .label-purple }
+: **Lecture**{: .label .label-purple } [Fundamentals: Part II](#)
   : [Notes](#), [Problems](#), [Solutions](#), [Notebooks](#)
 
 Sep 30
-: [Curvature](#) **Reading Group**{: .label .label-purple }
+: [Curvature](#)
   : [Notes](#), [Problems](#), [Solutions](#), [Notebooks](#)
+: **Papers**{: .label .label-green } [Fundamentals](#)
 
 Oct 1
 : **Workshop**{: .label .label-purple } [Hackathon](#)
+: **Papers**{: .label .label-green } [Curvature](#)
 
 Oct 2
 : [Hackathon](#)
-  : [2.1](#)
 : **Papers due**{: .label .label-red }
