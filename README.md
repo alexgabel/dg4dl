@@ -8,7 +8,7 @@ seo:
   name: DG4DL
 ---
 
-# Differential Geometry for Deep Learning
+# DG4DL
 
 These are the notes for the tutorial series on Differential Geometry for Deep Learning. List:
 
