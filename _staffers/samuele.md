@@ -1,6 +1,6 @@
 ---
-name: More Evil Kevin
-role: Teaching Assistant
+name: Samuele Papa
+role: Organizer
 email: me@example.com
 website: https://kevinl.info
 photo: kevin.jpg
