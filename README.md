@@ -1,14 +1,14 @@
 ---
 layout: home
-title: Differential Geometry for Deep Learning
+title: DiffGeoforDL
 nav_exclude: true
 permalink: /:path/
 seo:
   type: Tutorial
-  name: DG4DL
+  name: DGDL
 ---
 
-# DG4DL
+# DG4DLIntro
 
 These are the notes for the tutorial series on Differential Geometry for Deep Learning. List:
 
